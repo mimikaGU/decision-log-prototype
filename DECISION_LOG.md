@@ -1,4 +1,4 @@
-# This file contains concept decisions for GAD automation framework
+# This file contains concept decisions for Test Automation - sample
 
 # Table of Contents
 
